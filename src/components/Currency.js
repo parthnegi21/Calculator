@@ -64,7 +64,7 @@ export default function Currency({dark,toogle}) {
 
    </div>
    <div className='position-absolute d-flex' style={{top: '3%',
-          left: '52%',
+          left: '80%',
           transform: 'translate(-50%, -50%)',alignItems:'center',justifyContent:'center',fontSize:'30px',color:dark.color}}><Link className="nav-link" to="/dollar"> <FontAwesomeIcon icon={faDollarSign} /></Link>
    
    </div>
